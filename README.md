@@ -8,17 +8,17 @@ This is a standalone Fortran implementation of the S5 neural network (NN) forwar
 
 To get started, clone this repository by running
 ```
-git clone git@gitlab.sron.nl:fional/s5_nn_forward_model.git
+git clone git@github.com:FionaLippert/Fortran_NN_forward_model.git
 ```
 to clone via SSH, or
 ```
-git clone https://gitlab.sron.nl/fional/s5_nn_forward_model.git
+git clone https://github.com/FionaLippert/Fortran_NN_forward_model.git
 ```
 to clone via HTTPS.
 
 Now, switch to the project directory:
 ```
-cd s5_nn_forward_model
+cd Fortran_NN_forward_model
 ```
 
 ### Dependencies
