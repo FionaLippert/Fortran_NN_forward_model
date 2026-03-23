@@ -1,0 +1,14 @@
+# build files
+build_nn_fwd/
+*.a
+*.so
+
+# FTorch libraries and build directories
+FTorch/build_ftorch/
+FTorch/FTorch_INSTALLED/
+FTorch/LibTorch/
+FTorch/FTorch/
+FTorch/CxxTorch/
+
+# GRASP-specific code
+grasp_interface_nodes/
